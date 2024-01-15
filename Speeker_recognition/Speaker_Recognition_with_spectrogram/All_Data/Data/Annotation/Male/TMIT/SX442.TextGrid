@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.2096145124716555 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 5.2096145124716555 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2168072562358276 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.2168072562358276 
+            xmax = 1.8888072562358278 
+            text = "1" 
+        intervals [3]:
+            xmin = 1.8888072562358278 
+            xmax = 2.0088072562358277 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.0088072562358277 
+            xmax = 2.336807256235828 
+            text = "1" 
+        intervals [5]:
+            xmin = 2.336807256235828 
+            xmax = 2.736807256235828 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.736807256235828 
+            xmax = 2.9048072562358276 
+            text = "1" 
+        intervals [7]:
+            xmin = 2.9048072562358276 
+            xmax = 3.264807256235828 
+            text = "0" 
+        intervals [8]:
+            xmin = 3.264807256235828 
+            xmax = 3.4008072562358276 
+            text = "1" 
+        intervals [9]:
+            xmin = 3.4008072562358276 
+            xmax = 3.672807256235828 
+            text = "0" 
+        intervals [10]:
+            xmin = 3.672807256235828 
+            xmax = 3.816807256235828 
+            text = "1" 
+        intervals [11]:
+            xmin = 3.816807256235828 
+            xmax = 4.248807256235828 
+            text = "0" 
+        intervals [12]:
+            xmin = 4.248807256235828 
+            xmax = 4.496807256235828 
+            text = "1" 
+        intervals [13]:
+            xmin = 4.496807256235828 
+            xmax = 4.608807256235828 
+            text = "0" 
+        intervals [14]:
+            xmin = 4.608807256235828 
+            xmax = 4.808807256235827 
+            text = "1" 
+        intervals [15]:
+            xmin = 4.808807256235827 
+            xmax = 5.2096145124716555 
+            text = "0" 

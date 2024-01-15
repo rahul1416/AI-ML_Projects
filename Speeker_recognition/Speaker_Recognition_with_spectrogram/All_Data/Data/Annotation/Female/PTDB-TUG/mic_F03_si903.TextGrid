@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.18 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 10.18 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.9219999999999993 
+            text = "0" 
+        intervals [2]:
+            xmin = 2.9219999999999993 
+            xmax = 3.5299999999999994 
+            text = "1" 
+        intervals [3]:
+            xmin = 3.5299999999999994 
+            xmax = 3.6819999999999995 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.6819999999999995 
+            xmax = 4.809999999999999 
+            text = "1" 
+        intervals [5]:
+            xmin = 4.809999999999999 
+            xmax = 4.921999999999999 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.921999999999999 
+            xmax = 5.138 
+            text = "1" 
+        intervals [7]:
+            xmin = 5.138 
+            xmax = 5.25 
+            text = "0" 
+        intervals [8]:
+            xmin = 5.25 
+            xmax = 5.609999999999999 
+            text = "1" 
+        intervals [9]:
+            xmin = 5.609999999999999 
+            xmax = 6.065999999999999 
+            text = "0" 
+        intervals [10]:
+            xmin = 6.065999999999999 
+            xmax = 6.969999999999999 
+            text = "1" 
+        intervals [11]:
+            xmin = 6.969999999999999 
+            xmax = 7.298 
+            text = "0" 
+        intervals [12]:
+            xmin = 7.298 
+            xmax = 7.994 
+            text = "1" 
+        intervals [13]:
+            xmin = 7.994 
+            xmax = 8.154 
+            text = "0" 
+        intervals [14]:
+            xmin = 8.154 
+            xmax = 8.569999999999999 
+            text = "1" 
+        intervals [15]:
+            xmin = 8.569999999999999 
+            xmax = 10.18 
+            text = "0" 

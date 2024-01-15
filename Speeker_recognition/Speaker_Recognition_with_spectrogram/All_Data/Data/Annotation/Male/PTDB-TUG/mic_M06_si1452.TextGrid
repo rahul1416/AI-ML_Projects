@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.18 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 10.18 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.6979999999999995 
+            text = "0" 
+        intervals [2]:
+            xmin = 2.6979999999999995 
+            xmax = 2.9139999999999993 
+            text = "1" 
+        intervals [3]:
+            xmin = 2.9139999999999993 
+            xmax = 3.0419999999999994 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.0419999999999994 
+            xmax = 3.2019999999999995 
+            text = "1" 
+        intervals [5]:
+            xmin = 3.2019999999999995 
+            xmax = 3.6739999999999995 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.6739999999999995 
+            xmax = 4.314 
+            text = "1" 
+        intervals [7]:
+            xmin = 4.314 
+            xmax = 4.442 
+            text = "0" 
+        intervals [8]:
+            xmin = 4.442 
+            xmax = 5.921999999999999 
+            text = "1" 
+        intervals [9]:
+            xmin = 5.921999999999999 
+            xmax = 6.266 
+            text = "0" 
+        intervals [10]:
+            xmin = 6.266 
+            xmax = 6.41 
+            text = "1" 
+        intervals [11]:
+            xmin = 6.41 
+            xmax = 6.554 
+            text = "0" 
+        intervals [12]:
+            xmin = 6.554 
+            xmax = 6.761999999999999 
+            text = "1" 
+        intervals [13]:
+            xmin = 6.761999999999999 
+            xmax = 6.898 
+            text = "0" 
+        intervals [14]:
+            xmin = 6.898 
+            xmax = 7.097999999999999 
+            text = "1" 
+        intervals [15]:
+            xmin = 7.097999999999999 
+            xmax = 7.241999999999999 
+            text = "0" 
+        intervals [16]:
+            xmin = 7.241999999999999 
+            xmax = 7.682 
+            text = "1" 
+        intervals [17]:
+            xmin = 7.682 
+            xmax = 7.882 
+            text = "0" 
+        intervals [18]:
+            xmin = 7.882 
+            xmax = 8.825999999999999 
+            text = "1" 
+        intervals [19]:
+            xmin = 8.825999999999999 
+            xmax = 10.18 
+            text = "0" 
